@@ -1,5 +1,5 @@
 # Kubernetes Learning Path
-## From Zero to Kubernetes Astronaut 🚀
+## From Zero to Kubestronaut
 
 A comprehensive, structured learning path designed to take you from absolute beginner to Kubernetes expert, with certifications, courses, and hands-on practice.
 
@@ -60,7 +60,7 @@ Before diving into Kubernetes, you need to build a solid foundation in these cor
 
 ## Learning Levels
 
-### 🌱 **Level 0: Absolute Beginner** (2-4 weeks)
+### 🌱 **Level 0: Absolute Beginner** 
 **Prerequisites:** None  
 **Goal:** Understand what Kubernetes is and why it exists
 
@@ -81,7 +81,7 @@ Before diving into Kubernetes, you need to build a solid foundation in these cor
 
 ---
 
-### 🌿 **Level 1: Foundation** (4-6 weeks)
+### 🌿 **Level 1: Foundation** 
 **Prerequisites:** Linux basics, Docker fundamentals  
 **Goal:** Understand Kubernetes core concepts and architecture
 
@@ -103,6 +103,8 @@ Before diving into Kubernetes, you need to build a solid foundation in these cor
 - View logs and troubleshoot basic issues
 
 **Certification Target:** **KCNA** (Kubernetes and Cloud Native Associate)
+
+<img width="240" height="232" alt="image" src="https://github.com/user-attachments/assets/64b08053-c824-45a5-b734-d88ad321d0eb" />
 
 ---
 
