@@ -108,7 +108,7 @@ Before diving into Kubernetes, you need to build a solid foundation in these cor
 
 ---
 
-### 🌳 **Level 2: Practitioner** (8-12 weeks)
+### 🌳 **Level 2: Practitioner** 
 **Prerequisites:** KCNA or equivalent knowledge  
 **Goal:** Administer Kubernetes clusters and deploy production-ready applications
 
@@ -124,6 +124,7 @@ Before diving into Kubernetes, you need to build a solid foundation in these cor
 - Troubleshooting (debugging pods, cluster issues)
 - Logging and monitoring fundamentals
 
+
 **For Developers (CKAD Path):**
 - Multi-container Pod patterns (sidecar, adapter, ambassador)
 - Deployments and rolling updates
@@ -134,6 +135,8 @@ Before diving into Kubernetes, you need to build a solid foundation in these cor
 - Application configuration (ConfigMaps, Secrets, environment variables)
 - Service discovery and networking
 - Helm basics (charts, releases, values)
+
+
 
 **Skills to Build:**
 - Set up a multi-node cluster from scratch
@@ -146,11 +149,16 @@ Before diving into Kubernetes, you need to build a solid foundation in these cor
 
 **Certification Targets:**
 - **CKA** (Certified Kubernetes Administrator) - for infrastructure/ops focus
+  
+<img width="210" height="223" alt="image" src="https://github.com/user-attachments/assets/ea9efd60-0504-4e7e-b1ad-55c68791902d" />
+  
 - **CKAD** (Certified Kubernetes Application Developer) - for developer focus
+  
+<img width="235" height="232" alt="image" src="https://github.com/user-attachments/assets/95fcf05a-cffd-429d-8774-67781ae9c530" />
 
 ---
 
-### 🌲 **Level 3: Advanced Practitioner** (8-12 weeks)
+### 🌲 **Level 3: Advanced Practitioner** 
 **Prerequisites:** CKA and/or CKAD  
 **Goal:** Implement security best practices and advanced patterns
 
@@ -177,11 +185,16 @@ Before diving into Kubernetes, you need to build a solid foundation in these cor
 
 **Certification Targets:**
 - **KCSA** (Kubernetes and Cloud Security Associate) - security foundation
+
+ <img width="227" height="250" alt="image" src="https://github.com/user-attachments/assets/758a166f-0494-40a8-8cdc-a7b77786f1e8" />
+
 - **CKS** (Certified Kubernetes Security Specialist) - advanced security
+
+<img width="219" height="265" alt="image" src="https://github.com/user-attachments/assets/7c127e5c-8ad4-44a3-86e3-17b23d5b8265" />
 
 ---
 
-### 🚀 **Level 4: Expert/Architect** (Ongoing)
+### 🚀 **Level 4: Expert/Architect** 
 **Prerequisites:** CKA, CKAD, CKS  
 **Goal:** Design, architect, and optimize large-scale Kubernetes systems
 
