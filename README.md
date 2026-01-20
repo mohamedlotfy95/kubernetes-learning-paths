@@ -222,7 +222,6 @@ Before diving into Kubernetes, you need to build a solid foundation in these cor
 - Implement advanced CI/CD pipelines
 - Build internal developer platforms
 
-**Certification Target:** All certifications should be maintained, plus consider cloud-specific certifications
 
 ---
 
