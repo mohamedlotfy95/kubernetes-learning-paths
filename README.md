@@ -1,7 +1,7 @@
 # Kubernetes Learning Path
 ## From Zero to Kubestronaut
 
-A comprehensive, structured learning path designed to take you from absolute beginner to Kubernetes expert, with certifications, courses, and hands-on practice.
+> **Note:** The roadmap will help you get on the right track, but as always, practice is what makes perfect.
 
 ---
 
