@@ -191,113 +191,42 @@ Before diving into Kubernetes, you need to build a solid foundation in these cor
 
 ---
 
-### 🚀 **Level 4: Expert/Architect** 
-**Prerequisites:** CKA, CKAD, CKS  
-**Goal:** Design, architect, and optimize large-scale Kubernetes systems
+###  **Level 4: Kubestronauts **
+**Prerequisites:** CKA, CKAD, CKS, KCNA, KCSA  
+**Goal:**
+will receive the title of Kubestronaut, as well as these additional benefits:
 
-**What to Learn:**
-- Kubernetes operators and custom controllers
-- Custom Resource Definitions (CRDs)
-- Advanced scheduling (affinity, taints, tolerations, priority)
-- Multi-tenancy patterns
-- Cost optimization strategies
-- Performance tuning and optimization
-- Service mesh deep dive
-- Platform engineering (building internal developer platforms)
-- Kubernetes source code and internals
-- Contributing to Kubernetes ecosystem
-- Cloud-native architecture patterns
-- Chaos engineering for Kubernetes
+**Recognition:**
 
-**Skills to Build:**
-- Build custom Kubernetes operators
-- Design multi-tenant platforms
-- Architect highly available systems
-- Optimize cluster costs
-- Contribute to open-source Kubernetes projects
-- Design disaster recovery strategies
-- Implement advanced CI/CD pipelines
-- Build internal developer platforms
-
-
-
----
-
-###  **Level 5: Kubernaut & Beyond** (The Elite Path)
-**Prerequisites:** All CNCF Kubernetes certifications  
-**Goal:** Achieve Kubernaut status and contribute to the ecosystem at the highest level
-
+An exclusive Kubestronaut jacket to show off your elite status
+A Credly badge to showcase your expertise
+Access to the dedicated/private Kubestronaut Slack channel and mailing list
+Five coupons for 50%-off certifications each year, for yourself or to share
+20%-off three CNCF events (KubeCon or KubeDays) a year
 **The Kubernaut Program:**
 
-The CNCF Kubernaut program recognizes individuals who have demonstrated exceptional commitment to Kubernetes and cloud-native technologies through certifications and community contributions.
+Individuals who have successfully passed every CNCF Kubernetes certification 
 
-####  **Kubernaut** (5 Certifications)
-To become a Kubernaut, you must earn **5 CNCF certifications**, including:
-- All Kubernetes certifications (KCNA, CKA, CKAD, CKS, KCSA)
-- OR a combination of Kubernetes and other CNCF certifications
+<img width="456" height="353" alt="image" src="https://github.com/user-attachments/assets/3d76ab3c-8867-47d9-9759-88734fc33c6d" />
 
-**Recognition:**
-- Exclusive Kubernaut badge and digital credential
-- Listed in the CNCF Kubernaut directory
-- Special recognition at KubeCon events
-- Access to exclusive Kubernaut community
 
-#### 🏆 **Golden Kubernaut** (10 Certifications)
-The ultimate achievement in the CNCF certification ecosystem requires **10 CNCF certifications**.
 
-**Path to Golden Kubernaut:**
+###  **Level 5:  Golden Kubestronauts **
 
 **Core Kubernetes Certifications (5):**
-1. KCNA - Kubernetes and Cloud Native Associate
-2. CKA - Certified Kubernetes Administrator
-3. CKAD - Certified Kubernetes Application Developer
-4. CKS - Certified Kubernetes Security Specialist
-5. KCSA - Kubernetes and Cloud Security Associate
+Individuals who have successfully passed every CNCF certification (currently CKA, CKAD, CKS, KCNA, KCSA, PCA, ICA, CCA, CAPA, CGOA, CBA, OTCA, KCA, CNPA) and LFCS, will receive the title of Golden Kubestronaut for life, as well as these additional benefits:
 
-**Additional CNCF Certifications to reach 10:**
+An exclusive backpack with the Golden Kubestronaut logo
+A special Golden Kubestronaut beanie
+ThriveOne subscription (as long as the Kubestronaut title is maintained)
+One free ticket per year to any Kubernetes Community Days (KCD)
+One 50%-off KubeCon registration per year
+A 60% discount voucher for each new CNCF certification
+A distinguished Golden representation on the Kubestronaut website
+UPDATE : CNPE will be an additional requirement after March 1st to become a Golden Kubestronaut.
 
-**Prometheus (Monitoring & Observability):**
-6. **PCA** - Prometheus Certified Associate  
-   https://training.linuxfoundation.org/certification/prometheus-certified-associate/
+<img width="477" height="429" alt="image" src="https://github.com/user-attachments/assets/922941f1-8cb4-47b4-b4b0-7fcac2491a83" />
 
-**Service Mesh:**
-7. **ISTCA** - Istio Certified Associate  
-   https://training.linuxfoundation.org/certification/istio-certified-associate-isca/
-
-**Serverless:**
-8. **KCNA** - Knative Certified Associate (when available)
-
-**Cloud & Infrastructure:**
-9. **LFCA** - Linux Foundation Certified IT Associate  
-   https://training.linuxfoundation.org/certification/linux-foundation-certified-it-associate/
-
-10. **GitOps & CI/CD:**
-    - **CGOA** - Certified GitOps Associate  
-      https://training.linuxfoundation.org/certification/certified-gitops-associate-cgoa/
-    - **GITOPS** - GitOps Fundamentals
-
-**Alternative Certifications (Mix and Match):**
-- **FinOps Certified Practitioner**  
-  https://learn.finops.org/path/finops-certified-practitioner
-- **Cilium Certified Associate** (when available)
-- **Backstage Project Certifications** (emerging)
-
-**Recognition:**
-- Exclusive Golden Kubernaut badge
-- Highest level of CNCF recognition
-- Featured prominently in CNCF materials
-- Speaking opportunities at KubeCon
-- Special networking events
-- Lifetime achievement recognition
-
-**What to Master:**
-- Deep expertise across the entire cloud-native ecosystem
-- Thought leadership in Kubernetes and CNCF projects
-- Contributing to multiple CNCF projects
-- Speaking at conferences and meetups
-- Writing technical content (blogs, books, documentation)
-- Mentoring the next generation of Kubernetes professionals
-- Participating in CNCF governance and working groups
 
 ---
 
