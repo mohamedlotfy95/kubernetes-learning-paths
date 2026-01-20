@@ -284,15 +284,15 @@ Security Track:
 ### Free Resources
 
 #### KCNA Preparation
-- **KodeKloud - KCNA Course** (Free tier available)  
+- **KodeKloud - KCNA Course** 
   https://kodekloud.com/courses/kubernetes-and-cloud-native-associate-kcna/
-- **CNCF Kubernetes and Cloud Native Essentials** (Free)  
+- **CNCF Kubernetes and Cloud Native Essentials** 
   https://training.linuxfoundation.org/training/kubernetes-and-cloud-native-essentials-lfs250/
 
 #### CKA Preparation
-- **Killer Shell CKA** (Free practice environment with cert purchase)  
+- **Killer Shell CKA**  
   https://killer.sh/
-- **KodeKloud CKA Course** (Paid but excellent)  
+- **KodeKloud CKA Course**  
   https://kodekloud.com/courses/certified-kubernetes-administrator-cka/
 - **Mumshad Mannambeth's CKA Course on Udemy**  
   https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/
@@ -309,7 +309,7 @@ Security Track:
 - **Kim Wüstkamp's CKS Course on Udemy**  
   https://www.udemy.com/course/certified-kubernetes-security-specialist/
 
-### Linux Foundation Official Courses (Paid)
+### Linux Foundation Official Courses 
 - **LFS250** - Kubernetes and Cloud Native Essentials  
   https://training.linuxfoundation.org/training/kubernetes-and-cloud-native-essentials-lfs250/
 - **LFS258** - Kubernetes Fundamentals  
@@ -402,7 +402,7 @@ Security Track:
   https://www.docker.com/products/docker-desktop/
 
 ### Practice Platforms
-- **Killer.sh** - Exam simulator (included with cert purchase)  
+- **Killer.sh** - Exam simulator   
   https://killer.sh/
 - **KodeKloud Playgrounds** - Free interactive labs  
   https://kodekloud.com/playgrounds/
@@ -412,11 +412,11 @@ Security Track:
   https://www.katacoda.com/
 
 ### Cloud Provider Managed Kubernetes (Free tiers available)
-- **Google Kubernetes Engine (GKE)** - $300 free credit  
+- **Google Kubernetes Engine (GKE)**  
   https://cloud.google.com/kubernetes-engine
-- **Amazon Elastic Kubernetes Service (EKS)** - Free tier  
+- **Amazon Elastic Kubernetes Service (EKS)** 
   https://aws.amazon.com/eks/
-- **Azure Kubernetes Service (AKS)** - Free tier  
+- **Azure Kubernetes Service (AKS)**   
   https://azure.microsoft.com/en-us/products/kubernetes-service/
 
 ---
