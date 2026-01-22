@@ -87,7 +87,7 @@ Before diving into Kubernetes, you need to build a solid foundation in these cor
 **What to Learn:**
 - Kubernetes architecture (Control Plane, Worker Nodes)
 - Core components (API Server, etcd, Scheduler, Controller Manager, Kubelet, kube-proxy)
-- Pods, ReplicaSets, Deployments
+- Pods, ReplicaSets, Deployments, Daemonset, Statefulset
 - Services (ClusterIP, NodePort, LoadBalancer)
 - Namespaces
 - ConfigMaps and Secrets
@@ -131,7 +131,7 @@ Before diving into Kubernetes, you need to build a solid foundation in these cor
 - Resource limits and requests
 - Volumes and data persistence
 - Application configuration (ConfigMaps, Secrets, environment variables)
-- Service discovery and networking
+- Understand and use Services (ClusterIP, NodePort, LoadBalancer)
 - Helm basics (charts, releases, values)
 
 **Skills to Build:**
@@ -162,19 +162,18 @@ Before diving into Kubernetes, you need to build a solid foundation in these cor
 - Advanced security (Pod Security Standards, OPA/Gatekeeper, Falco)
 - Supply chain security (image scanning, signing, SBOM)
 - Secrets management (Vault, External Secrets Operator)
-- Advanced networking (Service Mesh - Istio/Linkerd, Ingress Controllers)
-- GitOps (ArgoCD, Flux)
-- Advanced observability (Prometheus, Grafana, Jaeger, ELK)
+- Advanced networking (Service Mesh - Istio, Ingress Controllers)
+- 
 - Cluster hardening and compliance
 - Runtime security and threat detection
 - Disaster recovery strategies
 - Multi-cluster management
+- Understand and configure security contexts (runAsUser, capabilities)
 
 **Skills to Build:**
 - Implement Pod Security Standards
 - Set up a service mesh
-- Configure GitOps workflows
-- Implement comprehensive monitoring
+- Pod isolation
 - Conduct security audits
 - Implement zero-trust networking
 - Set up multi-cluster deployments
