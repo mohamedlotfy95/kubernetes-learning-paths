@@ -73,12 +73,10 @@ Before diving into Kubernetes, you need to build a solid foundation in these cor
 - Basic terminology (Pod, Node, Cluster, Deployment)
 
 **Skills to Build:**
-- Install Docker on your local machine
+- Install Docker
 - Run basic Docker commands
 - Create a simple Dockerfile
 - Learn basic Linux commands
-
-**Certification Target:** None yet
 
 ---
 
@@ -103,7 +101,7 @@ Before diving into Kubernetes, you need to build a solid foundation in these cor
 - Use ConfigMaps for configuration
 - View logs and troubleshoot basic issues
 
-**Certification Target:** **KCNA** (Kubernetes and Cloud Native Associate)
+**Certification :** **KCNA** (Kubernetes and Cloud Native Associate)
 
 <img width="240" height="232" alt="image" src="https://github.com/user-attachments/assets/64b08053-c824-45a5-b734-d88ad321d0eb" />
 
@@ -145,7 +143,7 @@ Before diving into Kubernetes, you need to build a solid foundation in these cor
 - Perform cluster backups and upgrades
 - Debug and troubleshoot production issues
 
-**Certification Targets:**
+**Certification s:**
 - **CKA** (Certified Kubernetes Administrator) - for infrastructure/ops focus
   
 <img width="210" height="223" alt="image" src="https://github.com/user-attachments/assets/ea9efd60-0504-4e7e-b1ad-55c68791902d" />
@@ -181,7 +179,7 @@ Before diving into Kubernetes, you need to build a solid foundation in these cor
 - Implement zero-trust networking
 - Set up multi-cluster deployments
 
-**Certification Targets:**
+**Certification s:**
 - **KCSA** (Kubernetes and Cloud Security Associate) - security foundation
 
  <img width="227" height="250" alt="image" src="https://github.com/user-attachments/assets/758a166f-0494-40a8-8cdc-a7b77786f1e8" />
