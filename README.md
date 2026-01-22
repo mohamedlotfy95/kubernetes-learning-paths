@@ -35,19 +35,19 @@ Before diving into Kubernetes, you need to build a solid foundation in these cor
 - Docker Compose for multi-container applications
 - Container registries (Docker Hub, ECR, GCR)
 
-### 3. **Basic Networking**
+### 3. **Basic Networking** (Optional but recommended)
 - IP addressing and subnetting
 - Load balancing concepts
 - Reverse proxies
 - DNS and service discovery
 - TLS/SSL certificates
 
-### 4. **Version Control**
+### 4. **Version Control** (Optional but recommended)
 - Git basics (clone, commit, push, pull, branch, merge)
 - GitHub/GitLab workflows
 - GitOps concepts
 
-### 5. **YAML**
+### 5. **YAML** (Optional but recommended)
 - YAML syntax and structure
 - Writing and reading YAML files
 - Common patterns in configuration files
