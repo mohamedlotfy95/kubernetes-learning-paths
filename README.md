@@ -23,8 +23,9 @@ Before diving into Kubernetes, you need to build a solid foundation in these cor
 - Command line operations (navigation, file manipulation, permissions)
 - Package management (apt, yum, dnf)
 - Process management and systemd
-- Basic shell scripting
 - Networking fundamentals (TCP/IP, DNS, HTTP/HTTPS)
+- Log management (journalctl, /var/log)
+- SSH and remote access
 
 ### 2. **Containerization**
 - What are containers and why they exist
